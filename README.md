@@ -63,7 +63,7 @@ Results-driven IT Manager at **Cognizant** with extensive experience leading inf
 [![AZ-900](https://img.shields.io/badge/AZ--900_Azure_Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/credentials/certifications/azure-fundamentals)
 [![MS-900](https://img.shields.io/badge/MS--900_M365_Fundamentals-D83B01?style=flat-square&logo=microsoft&logoColor=white)](https://learn.microsoft.com/credentials/certifications/microsoft-365-fundamentals)
 [![ITIL](https://img.shields.io/badge/ITIL_Foundation-6B2D8B?style=flat-square&logoColor=white)](https://www.axelos.com/certifications/itil-service-management/itil-4-foundation)
-[![AI Business Professional](https://img.shields.io/badge/AI_Business_Professional-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://learn.microsoft.com/credentials/certifications/ai-business-professional)
+[![AI Business Professional](https://img.shields.io/badge/AB--730_AI_Business_Professional-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://learn.microsoft.com/credentials/certifications/ai-business-professional)
 
 ---
 
